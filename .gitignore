@@ -1,0 +1,12 @@
+
+
+# No videos #
+*.pyc
+*.avi
+*.flv
+*.mp4
+videos/
+tmp/
+__pycache__/
+.idea/
+
